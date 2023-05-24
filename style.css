@@ -1,0 +1,79 @@
+.centre{
+  margin:auto;
+  margin-top:25%;
+  margin-bottom: 25%;
+  width: 403px;
+ border: 1px solid black;
+ position: relative;
+ height: 448px;
+ padding: 5px 5px;
+ border-radius: 15px;
+ background-color: bisque;
+
+
+
+
+}
+
+.border{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 45px;
+    
+    
+
+}
+.bor{
+    margin-top: 15px;
+}
+.bor p{
+    display: inline;
+    margin-left: 10px;
+    margin-top: 5px;
+    padding: 2px;
+    
+   
+}
+.milan img{
+    border: 1px solid black;
+    border-radius: 15px;
+    
+    margin-left:5px;
+    width:389px;
+   
+}
+.per{
+    margin-left: 5px;
+}
+body{
+    box-sizing: border-box;
+}
+.read{
+    border: 1px solid black;
+    border-radius: 17px;
+    width:80px;
+    text-align: center;
+    padding: 0px;
+    position: absolute;
+    background-color:azure;
+    
+    
+   
+    left: 38%;
+   
+
+
+}
+.read p{
+   padding: 5px;
+   margin:0px;
+color:brown;
+   
+
+}
+.sasuke{
+    font-weight: bold;
+    margin-left: 5px;
+    font-size: 24px;
+}
+
